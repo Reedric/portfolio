@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "Birdbrain Bash",
       description:
         "Ability-based co-op sports game. Play as different birds and team up with friends to take out the competition. Co-lead that oversaw audio and programming for the game. Attended DreamHack Atlanta 2026 to showcase the game. Mainly did systems programming and QA work in addition to team management tasks.",
-      link: "https://github.com/Reedric/BIRDBRAIN-BASH",
+      link: "https://store.steampowered.com/app/4665110/Birdbrain_Bash/",
       skills: ["Unity", "C#", "Netcode for GameObjects", "Game System Programming"],
     },
     {
@@ -94,7 +94,7 @@ export const siteConfig = {
       dateRange: "May 2026 - Present",
       bullets: [
         "Aided professor with student and faculty requests",
-        "Led team of 5 teaching assistants to efficiently perform responsibilities",
+        "Led team of 6 teaching assistants to efficiently perform responsibilities",
         "Oversaw every component of course to ensure smooth course operations",
       ],
     },
