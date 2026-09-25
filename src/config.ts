@@ -117,7 +117,8 @@ export const siteConfig = {
       degree: "Master of Science in Computer Science",
       dateRange: "2026 - 2027",
       achievements: [
-        "Yet to come..."
+        "Excelling in courses such as Game AI, Shape Grammars, and Database Systems",
+        "Head Teaching Assistant for CS 4510: Automata and Complexity for 100 students"
       ],
     },
   ],
